@@ -14,7 +14,7 @@
 
 ### [空间复杂度][space]
 
-[time]:www.baidu.com
+[time]:https://github.com/occlive/DataStructure/blob/master/1.%20%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md
 [space]:www.baidu.com
 
 
