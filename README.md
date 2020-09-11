@@ -10,7 +10,12 @@
 主要内容
 ----
 
-### 概念
+### [时间复杂度][time]
+
+### [空间复杂度][space]
+
+[time]:www.baidu.com
+[space]:www.baidu.com
 
 
 算法
