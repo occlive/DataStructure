@@ -37,16 +37,16 @@
 * [基数排序][sort_radix]
 * [桶排序][sort_bucket]
 
-[sort_bubble]:www.baidu.com
-[sort_insert]:www.baidu.com
-[sort_quick]:www.baidu.com
-[sort_select]:www.baidu.com
-[sort_merge]:www.baidu.com
-[sort_shell]:www.baidu.com
+[sort_bubble]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md
+[sort_insert]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md
+[sort_quick]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md
+[sort_select]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md
+[sort_merge]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%20%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md
+[sort_shell]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F.md
 [sort_heap]:www.baidu.com
-[sort_count]:www.baidu.com
+[sort_count]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F.md
 [sort_radix]:www.baidu.com
-[sort_bucket]:www.baidu.com
+[sort_bucket]:https://github.com/occlive/DataStructure/blob/master/3.%20%E6%8E%92%E5%BA%8F/%E6%A1%B6%E6%8E%92%E5%BA%8F.md
 
 ### 二叉树
 
